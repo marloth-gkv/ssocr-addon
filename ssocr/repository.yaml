@@ -1,8 +1,8 @@
 name: SSOCR Add-ons
-url: https://github.com/marloth-gkv/ssocr-addon
+url: https://github.com/marloth-gkv/ssocr-addon/ssocr
 maintainer: "LoVo"
 license: "MIT"
-homepage: "https://github.com/marloth-gkv/ssocr-addon"
+homepage: "https://github.com/marloth-gkv/ssocr-addon/ssocr"
 description: "A collection of Home Assistant add-ons including SSOCR OCR tool"
 addons:
   - slug: ssocr
