@@ -1,0 +1,12 @@
+{
+  "name": "SSOCR Add-on",
+  "version": "1.0",
+  "slug": "ssocr",
+  "description": "SSOCR für Home Assistant",
+  "arch": ["armv7", "armv8", "amd64"],
+  "startup": "services",
+  "boot": "auto",
+  "host_network": true,
+  "options": {},
+  "schema": {}
+}
